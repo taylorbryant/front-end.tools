@@ -111,7 +111,6 @@ main
     flex-wrap: wrap;
     justify-content: center;
 }
-
 section
 {
     width: 340px;
@@ -143,6 +142,9 @@ footer
 /* MEDIA QUERIES */
 @media (max-width: 679px)
 {
+    html {
+      font-size: 18px;
+    }
     header
     {
         justify-content: flex-start;
