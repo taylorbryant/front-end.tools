@@ -65,8 +65,6 @@ li a, li a:hover {
 
 li:hover {
   background-color: #0071bd;
-  -webkit-transform: skewY(0deg);
-          transform: skewY(0deg);
 }
 
 header {
